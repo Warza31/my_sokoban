@@ -4,7 +4,7 @@
 A ncurses game made during my first year at {EPITECH}.
 
 # Usage
-./my_sokoban map
+`./my_sokoban map`
 # Description
 map file representing the warehouse map, containing ‘#’ for walls, ‘P’ for the player, ‘X’ for boxes and ‘O’ for storage locations.
 
